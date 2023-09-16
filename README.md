@@ -1,5 +1,6 @@
 # CNN_Implementation
 Implementation of custom layer in a Convolutional Neural Network on an image dataset.
+This work has been finished by three people.
 
 # Implementation of the Layers
 Custom Layer Description:
